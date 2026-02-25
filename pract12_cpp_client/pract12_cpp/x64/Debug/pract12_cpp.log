@@ -1,0 +1,5 @@
+﻿  pract12_cpp.cpp
+C:\Users\User\Desktop\pract12_cpp_client\pract12_cpp\pract12_cpp.cpp(10,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\pract12_cpp_client\pract12_cpp\pract12_cpp.cpp(21,23): warning C4244: инициализация: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+C:\Users\User\Desktop\pract12_cpp_client\pract12_cpp\pract12_cpp.cpp(27,41): warning C4244: =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+  pract12_cpp.vcxproj -> C:\Users\User\Desktop\pract12_cpp_client\x64\Debug\pract12_cpp.exe
